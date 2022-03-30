@@ -2,4 +2,48 @@ body {
   margin: 0;
   background-color: #3dbcc0;
 }
+
+main ul {
+  list-style-type: none;
+}
+
+main ul li:nth-child(1) {
+  color: #ffdb1a;
+}
+
+main ul li:nth-child(2) {
+  color: #ffdf33;
+}
+
+main ul li:nth-child(3) {
+  color: #ffe34d;
+}
+
+main ul li:nth-child(4) {
+  color: #ffe766;
+}
+
+main ul li:nth-child(5) {
+  color: #ffeb80;
+}
+
+main ul li:nth-child(6) {
+  color: #ffef99;
+}
+
+main ul li:nth-child(7) {
+  color: #fff3b3;
+}
+
+main ul li:nth-child(8) {
+  color: #fff7cc;
+}
+
+main ul li:nth-child(9) {
+  color: #fffbe6;
+}
+
+main ul li:nth-child(10) {
+  color: white;
+}
 /*# sourceMappingURL=main.css.map */
