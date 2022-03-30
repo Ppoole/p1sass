@@ -3,6 +3,10 @@ body{
     background-color: $bgColor;
 }
 
+header{
+    border:1px solid $colorborder;
+}
+
 main{
     ul{
         list-style-type: none;
